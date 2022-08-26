@@ -1,4 +1,4 @@
-# CLI Quiz App for markTwo
+# CLI Trivia quiz game for markTwo
 
 This is second project created in Neo G camp, LevelZero to expand on programming constructs in Javascript.
 
